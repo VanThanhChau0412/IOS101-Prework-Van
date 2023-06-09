@@ -20,24 +20,36 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/bCQZceh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
+<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc5OGM3Y2JiZTAyZGE5NGUxN2RkYzU4Nzg2ODEyMjNhNWYzODQ5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/YRCEXkkB37eMi6svOY/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with Kap  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+### My favorite apps:
+  - **Tiktok**
+    - Easily accessible watched video history
+    - Smart video recommendation algorithm
+  - **Shazam**
+    - Simple user interface
+    - Quick search result with links to different music apps
+  - **Instagram**
+    - Camera features with filters that can be used and downloaded offline
+    - Stories with music automatically muted to prevent loud sudden noise. 
+    
+### App Idea:
+I have an idea for a software solution to address the challenges my parents face with their homestay business. Currently, we rely on multiple platforms like Bookings.com and Airbnb.com to publish our rooms. Every time there is a new booking, my father manually updates an Excel file, which is then shared with the entire family. However, this process can be annoying, as we often have to download the file to view the updates. Additionally, managing bookings across multiple platforms like Bookings.com and Airbnb.com poses a risk of overbooking and creates difficulty in keeping track of reservations. To tackle these challenges, I propose developing a user-friendly software that automates the booking management process. This software would automatically update a shared calendar, ensuring real-time information is easily accessible to all family members, eliminating the need for manual updates and the hassle of downloading files.
 
-## Notes
+## Notes: Challenges while completing the Prework
 
-Describe any challenges encountered while building the app.
+- Familiarizing with XCode interface. 
+- Some prework instructions can be improved. 
+   - For example, in the XCode I use, there is no explicit Storyboard file. It took my sometimes to figure out the Main file is the storyboard file, which is implicitly named Main.storyboard.
+   - Codepath should include the image for the Adjust Editor Options button because the name is not explicitly shown on the XCode interface. Took some times to find that to.
+   - Why not specifying that we need to make a gif earlier? It is only mentioned on the few final lines that we need to include a gif. I think the instructions should mention earlier that one of the final products for submission include generating a gif rather than telling us to include gif file in the end.
+- I also do additional work such as changing color of the label, so I spent a little bit more time to delve into that, just a fun challenge.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Van Chau]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
